@@ -1,0 +1,78 @@
+h1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 60px;
+    padding-right: 50px;
+    border: solid 50px;
+    border-color: rgba(19, 165, 38, 0.993);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Mate SC', serif;
+    font-weight: 600px;
+    color: rgb(1, 2, 2);
+    text-align: center;
+    text-decoration: overline underline;
+}
+h2 {padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 60px;
+    padding-right: 50px;
+    border: solid 50px;
+    border-color: rgba(19, 165, 38, 0.993);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Mate SC', serif;
+    font-weight: 600px;
+    color:  rgb(1, 2, 2);
+    text-align: center;
+    text-decoration: overline underline;
+}
+img { border-image-width: 300px;
+
+
+
+}
+/* dudaba en ponerle color de fondo al header o todo, me parece mas provechoso que sea a todo */
+p {
+    font-family: 'Montez', cursive;
+    font-size: 20px;
+    text-decoration:underline ;
+}
+
+body { background-color: rgb(248, 245, 204);
+
+}
+span{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3{ text-decoration: overline underline;
+    text-align: center;
+    font-family: 'Mate SC', serif;
+    font-weight: 600px;
+
+}
+h4{ text-decoration: overline underline;
+    text-align: center;
+    font-family: 'Mate SC', serif;
+    font-weight: 600px;
+
+}
+
+h5{ text-decoration: overline underline;
+    text-align: center;
+    font-family: 'Mate SC', serif;
+    font-weight: 600px;
+
+}
+
+h6 { text-decoration: overline underline;
+    text-align: center;
+    font-family: 'Mate SC', serif;
+    font-weight: 600px;
+
+}
